@@ -16,10 +16,10 @@
 
 :root {
   --fundo-principal: #f3f4f6;
-  --texto: #1e3a8a;
+  --texto: #1f2937;
   --texto-inverso: #ffffff;
-  --destaque: #22d3ee;
-  --destaque-inverso: #3b82f6;
+  --destaque: #1e3a8a;
+  --destaque-inverso: #14b8a6;
   --fundo-card: #ffffff;
 }
 
